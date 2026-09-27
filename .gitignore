@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+kts_scan_*.csv
+hits.log
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/

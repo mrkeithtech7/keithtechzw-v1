@@ -1,0 +1,4 @@
+# KEITH TECH SCANNER V1.2
+# dnspython is OPTIONAL — the scanner works fully without it.
+# It's only needed for the full DNS record scan (menu option 3).
+dnspython>=2.4.0

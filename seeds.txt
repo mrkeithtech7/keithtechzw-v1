@@ -1,0 +1,27 @@
+# KEITH TECH SCANNER — offline seed list
+# Zero external APIs used for this mode. Add your own hosts below.
+# One host per line. Lines starting with # are ignored.
+
+# ── major CDN endpoints (good baseline to verify fingerprint)
+cloudflare.com
+1.1.1.1
+akamai.com
+fastly.com
+sucuri.net
+imperva.com
+cloudfront.net
+azure.microsoft.com
+google.com
+bunny.net
+stackpath.com
+keycdn.com
+
+# ── Zimbabwe ISP / carrier endpoints (probe to fingerprint local network)
+# uncomment and add your own:
+# econet.co.zw
+# www.econet.co.zw
+# netone.co.zw
+# telecel.co.zw
+# telone.co.zw
+# liquid.africa
+# zimra.co.zw
